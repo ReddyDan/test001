@@ -1,2 +1,1 @@
-# test001
-hhhhhhhhh
+# bshinfo-plugin-secure-key
